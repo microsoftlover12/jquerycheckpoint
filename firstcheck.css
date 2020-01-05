@@ -1,0 +1,105 @@
+.links{
+    display:flex;
+    justify-content: center;
+}
+
+a {
+    margin-left: 30px;
+    color:white;
+}
+
+body{
+
+
+
+    background-image:  Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+
+
+b{
+
+    color: white;
+}
+b1{
+
+    color: white;
+}
+.logo{
+
+display: flex;
+justify-content: space-between;
+text-indent: 5px;
+
+
+}
+.navbar-link {
+    font-size: 30px;
+    text-decoration: none;
+   
+   
+    
+}
+.navbar-link:hover{
+    color:red;
+}
+
+
+
+.contain:hover {
+    opacity: 0.7;
+  }
+
+  .allimage {
+      display: flex;
+      justify-content: center;
+  }
+
+  .contain {
+      padding-right: 50px;
+      position: relative;
+  }
+
+  .btn {
+      position: absolute;
+      top: 50%;
+      left: 30%;
+  }
+  .autre:hover {
+    opacity: 0.7;
+  }
+  .insideimage {
+    display: flex;
+    justify-content: center;
+}
+.autre{
+    padding-right: 50px;
+    position: relative;
+    margin-top:50px;
+}
+.insideimage2 {
+    display: flex;
+    justify-content: center;
+}
+.insideimage3 {
+    display: flex;
+    justify-content: center;
+}
+.autre1{
+    padding-right: 50px;
+    position: relative;
+    margin-top:50px;
+}
+.new{
+
+
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
